@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.47" height="27" viewBox="0 0 16.47 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="3425.53" y="147" width="16.47" height="27" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feFlood result="flood-2" flood-color="#7d7d7d"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path id="Tour_Icon" data-name="Tour Icon" class="cls-1" d="M3433.76,172.316h0a0.685,0.685,0,0,1-.6-0.362l-6.94-13.234-0.03-.049a8.271,8.271,0,1,1,15.81-3.319,8.26,8.26,0,0,1-.72,3.4,0.081,0.081,0,0,1-.02.043l-6.91,13.161A0.681,0.681,0,0,1,3433.76,172.316Zm-6.34-14.212,6.34,12.078,6.31-12.009a7.153,7.153,0,0,0,.58-2.821A6.9,6.9,0,1,0,3427.42,158.1Zm6.34,1.307a4.365,4.365,0,1,1,4.3-4.365A4.34,4.34,0,0,1,3433.76,159.411Zm0-7.365a3,3,0,1,0,2.96,3A2.978,2.978,0,0,0,3433.76,152.046Z" transform="translate(-3425.53 -147)"/>
+</svg>

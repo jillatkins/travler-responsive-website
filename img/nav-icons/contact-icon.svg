@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.5" height="27" viewBox="0 0 19.5 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="3810.78" y="147" width="19.5" height="27" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feFlood result="flood-2" flood-color="#7d7d7d"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path id="Contact_Icon" data-name="Contact Icon" class="cls-1" d="M3829.62,173h-18.16a0.685,0.685,0,0,1-.68-0.683V147.684a0.685,0.685,0,0,1,.68-0.684h12.11a0.689,0.689,0,0,1,.47.2h0l6.05,6.158h0.01a0.679,0.679,0,0,1,.19.478h0v18.474A0.677,0.677,0,0,1,3829.62,173Zm-17.49-1.368h16.81v-17.1h-5.38a0.677,0.677,0,0,1-.67-0.684v-5.474h-10.76v23.263Zm12.11-18.474h3.75l-3.75-3.821v3.821Zm2.35,14.711h-12.11a0.684,0.684,0,0,1,0-1.368h12.11A0.684,0.684,0,0,1,3826.59,167.868Zm0-3.079h-12.11a0.684,0.684,0,0,1,0-1.368h12.11A0.684,0.684,0,0,1,3826.59,164.789Zm-6.05-3.079h-6.06a0.685,0.685,0,0,1,0-1.369h6.06A0.685,0.685,0,0,1,3820.54,161.71Zm-0.48-7.184h-5.58a0.677,0.677,0,0,1-.67-0.684v-3.079a0.677,0.677,0,0,1,.67-0.684h5.58a0.679,0.679,0,0,1,.68.684v3.079A0.679,0.679,0,0,1,3820.06,154.526Zm-4.9-1.369h4.23v-1.71h-4.23v1.71Z" transform="translate(-3810.78 -147)"/>
+</svg>
